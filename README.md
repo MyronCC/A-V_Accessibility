@@ -8,7 +8,7 @@ This project using Vue.js for frontend framework and aim to make the website acc
     - Zoom in / out for elderly and other visual impairment people
 
 ## Installation 
-1. Clone this repo
+1. Clone this repo https://github.com/MyronCC/A-V_Accessibility.git
 2. Run in local environment as you wish
 
 ## future plan
